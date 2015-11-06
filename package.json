@@ -1,0 +1,26 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test task\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislav-osipov/first.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Stanislav Osipov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanislav-osipov/first/issues"
+  },
+  "homepage": "https://github.com/stanislav-osipov/first#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
